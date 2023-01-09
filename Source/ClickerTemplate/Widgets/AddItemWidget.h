@@ -13,5 +13,10 @@ UCLASS()
 class CLICKERTEMPLATE_API UAddItemWidget : public UUserWidget
 {
 	GENERATED_BODY()
-	
+
+public:
+
+protected:
+	UPROPERTY()
+	class AClickGameStateBase* GameStateRef;
 };

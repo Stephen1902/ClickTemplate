@@ -5,11 +5,16 @@
     <projectFile>Intermediate/ProjectFiles/UE4.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d5274c4-a445-4236-be67-7a59b0f6559c" name="Changes" comment="" />
+    <list default="true" id="7d5274c4-a445-4236-be67-7a59b0f6559c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Source/ClickerTemplate/AddItemWidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ClickerTemplate/AddItemWidget.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K600UfQF8jzlmlu7cmCotLwVe9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -255,7 +260,16 @@
       <updated>1673279502477</updated>
       <workItem from="1673279505129" duration="1871000" />
       <workItem from="1673298534471" duration="161000" />
+      <workItem from="1673298833303" duration="140000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1673298872397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673298872397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,5 +285,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
