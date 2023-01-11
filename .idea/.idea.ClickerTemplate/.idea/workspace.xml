@@ -6,12 +6,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d5274c4-a445-4236-be67-7a59b0f6559c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Source/ClickerTemplate/AddItemWidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ClickerTemplate/AddItemWidget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Framework/BP_GameModeBase.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Framework/BP_GameStateBase.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Maps/NewMap.umap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Tables/BP_MultiplicationInfoTable.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Tables/BP_UpgradeInfoTable.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ClickerTemplate/ClickerBlueprintFunctionLibrary.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ClickerTemplate/ClickerBlueprintFunctionLibrary.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ClickerTemplate/Widgets/WidgetMaster.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/ClickerTemplate/Widgets/WidgetMaster.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClickerTemplate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClickerTemplate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Framework/MyGameModeBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Framework/MyGameModeBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Framework/MyGameStateBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Framework/MyGameStateBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Player/MyPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/MyPlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/BP_AddItemWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/BP_AddItemWidget.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/BP_UpgradeItemWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/BP_UpgradeItemWidget.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/BP_UserWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/BP_UserWidget.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ClickerTemplate/Framework/ClickGameStateBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ClickerTemplate/Framework/ClickGameStateBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ClickerTemplate/Framework/ClickGameStateBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ClickerTemplate/Framework/ClickGameStateBase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ClickerTemplate/Player/ClickPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ClickerTemplate/Player/ClickPlayerController.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ClickerTemplate/Player/ClickPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ClickerTemplate/Player/ClickPlayerController.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ClickerTemplate/Widgets/AddItemWidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ClickerTemplate/Widgets/AddItemWidget.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ClickerTemplate/Widgets/AddItemWidget.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ClickerTemplate/Widgets/ClickUserWidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ClickerTemplate/Widgets/ClickUserWidget.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ClickerTemplate/Widgets/UpgradeItemWidget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ClickerTemplate/Widgets/UpgradeItemWidget.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Source/ClickerTemplate/Widgets/AddItemWidget.h" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -22,20 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\nicho\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\nicho\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\nicho\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\nicho\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\nicho\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\nicho\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="C++ Project.ClickerTemplate">
     <configuration name="ClickerTemplate" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -261,6 +291,14 @@
       <workItem from="1673279505129" duration="1871000" />
       <workItem from="1673298534471" duration="161000" />
       <workItem from="1673298833303" duration="140000" />
+      <workItem from="1673299052343" duration="450000" />
+      <workItem from="1673299594597" duration="265000" />
+      <workItem from="1673299934719" duration="1516000" />
+      <workItem from="1673301458061" duration="1432000" />
+      <workItem from="1673337723257" duration="5847000" />
+      <workItem from="1673382991761" duration="451000" />
+      <workItem from="1673383450929" duration="5173000" />
+      <workItem from="1673452851205" duration="18062000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1673298872397</created>
@@ -269,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673298872397</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed Folder Structure">
+      <created>1673299076692</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673299076692</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +331,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Changed Folder Structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Folder Structure" />
   </component>
 </project>
